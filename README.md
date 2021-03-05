@@ -1,2 +1,2 @@
-# pomodorino
-a simple pomodoro-style timer app
+# pomodorino-design
+visul ID for a simple pomodoro-style timer app
