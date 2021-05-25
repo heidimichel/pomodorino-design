@@ -1,0 +1,16 @@
+Font: SEGOE UI
+(timer: #F9C421, light, 80)
+(menu: #D2D1D1, regular, 30)
+(title: #D2D1D1, regular, 40)
+(text: #D2D1D1, regular, 16)
+
+Yellow
+#F9C421
+Light grey
+#D2D1D1
+Dark grey
+#707070
+Almost black grey
+#3A3A3A
+Black
+#000000
